@@ -14,5 +14,6 @@ BLUETOOTH_ENABLE = no		# Enable Bluetooth with the Adafruit EZ-Key HID
 RGBLIGHT_ENABLE = no		# Enable WS2812 RGB underlight.
 
 TAP_DANCE_ENABLE = no
+CAPS_WORD_ENABLE = yes
 
 LTO_ENABLE = yes
